@@ -330,8 +330,8 @@ export const CopilotPanel: React.FC = () => {
           </div>
 
           {/* Interactive Trust Graph Component */}
-          {showTrustGraph && response.trust_graph_nodes && (
-            <TrustGraph nodes={response.trust_graph_nodes} />
+          {showTrustGraph && (
+            <TrustGraph />
           )}
 
           {/* Trust Layer Verification */}
