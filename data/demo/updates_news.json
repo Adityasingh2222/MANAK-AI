@@ -1,0 +1,72 @@
+[
+  {
+    "id": "NEWS-001",
+    "type": "gazette",
+    "category": "Gazette Notification",
+    "title": "Ministry of Commerce and Industry issues Quality Control Order for Electrical Appliances (2024 Revisions)",
+    "date": "2026-03-25",
+    "summary": "The Central Government after consulting Bureau of Indian Standards mandates ISI mark for 16 additional electrical kitchen and home appliances under Scheme-I.",
+    "source": "The Gazette of India: Extraordinary (Part II-Sec. 3(ii))",
+    "source_url": "https://egazette.gov.in",
+    "status": "In Force",
+    "related_standard": "IS 302 / IS 1293",
+    "impact_level": "High Priority",
+    "demo_label": "DEMO CONTENT"
+  },
+  {
+    "id": "NEWS-002",
+    "type": "qco",
+    "category": "QCO Update",
+    "title": "Mandatory Hallmarking expanded to 55 additional districts across 7 states under Phase V",
+    "date": "2026-03-10",
+    "summary": "Gold jewellery hallmarking with 6-digit HUID now covers 343 districts nationwide. Jewellers without valid BIS registration prohibited from trading gold ornaments.",
+    "source": "Bureau of Indian Standards Hallmarking Division",
+    "source_url": "https://www.bis.gov.in/hallmarking",
+    "status": "Regulatory Mandate",
+    "related_standard": "IS 1417:2016",
+    "impact_level": "Critical",
+    "demo_label": "DEMO CONTENT"
+  },
+  {
+    "id": "NEWS-003",
+    "type": "bis_update",
+    "category": "BIS Update",
+    "title": "BIS announces simplified certification procedure for Micro and Small Enterprises (MSMEs)",
+    "date": "2026-02-18",
+    "summary": "Up to 50% concession on minimum marking fees and 80% fast-track processing timeline for certified MSME manufacturers adopting Make in India standards.",
+    "source": "BIS Press Information Bureau Release",
+    "source_url": "https://pib.gov.in",
+    "status": "Scheme Active",
+    "related_standard": "All Standards (MSME Concession)",
+    "impact_level": "Medium Priority",
+    "demo_label": "DEMO CONTENT"
+  },
+  {
+    "id": "NEWS-004",
+    "type": "alert",
+    "category": "Consumer Alert",
+    "title": "Advisory on Fake ISI Marks on Sub-Standard LED Bulbs and Plugs",
+    "date": "2026-01-30",
+    "summary": "BIS Enforcement branch conducts search and seizure operations seizing 4,200 non-compliant LED lamps bearing fake CM/L numbers in wholesale markets.",
+    "source": "BIS Enforcement Wing",
+    "source_url": "https://www.bis.gov.in/enforcement",
+    "status": "Consumer Warning",
+    "related_standard": "IS 16102 (Part 1)",
+    "impact_level": "High Warning",
+    "demo_label": "DEMO CONTENT"
+  },
+  {
+    "id": "NEWS-005",
+    "type": "press",
+    "category": "Press Release",
+    "title": "National Standards Conclave 2026 emphasizes AI-driven compliance and rapid lab onboarding",
+    "date": "2026-01-12",
+    "summary": "Minister addresses industry leaders on zero-defect manufacturing and digital verification pipelines to enhance Indian exports to G20 economies.",
+    "source": "PIB New Delhi / Ministry of Consumer Affairs",
+    "source_url": "https://pib.gov.in",
+    "status": "Archived News",
+    "related_standard": "General Standards Policy",
+    "impact_level": "Informational",
+    "demo_label": "DEMO CONTENT"
+  }
+]

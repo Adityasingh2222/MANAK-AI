@@ -1,0 +1,230 @@
+[
+  {
+    "scenario_id": "scenario-1-led-lamp",
+    "product_name": "Self-Ballasted 9W B22 LED Lamp",
+    "product_category": "Lighting & Electronics",
+    "detected_text": "SURYA 9W 230V 50Hz 6500K Cool Day Light 810 Lumens IS 16102 (Part 1) CM/L-8400192801 Made in India",
+    "brand": "SURYA ROSHNI",
+    "model": "SSK-PA-9W",
+    "rating_plate": {
+      "wattage": "9W",
+      "voltage": "220-240V AC",
+      "frequency": "50Hz",
+      "lumens": "810 lm",
+      "cct": "6500K",
+      "cap_type": "B22",
+      "power_factor": ">0.90"
+    },
+    "applicable_standard": "IS 16102 (Part 1):2012 & IS 16102 (Part 2):2017",
+    "standard_id": "IS-16102-1",
+    "qco_status": "Mandatory CRS / BIS Scheme-I & Scheme-II",
+    "cml_detected": "CM/L-8400192801",
+    "huid_detected": null,
+    "confidence_score": 0.98,
+    "required_tests": [
+      { "name": "Marking & Constructional Safety", "clause": "IS 16102 (Part 1) Cl 5 & 6", "priority": "High" },
+      { "name": "Insulation Resistance (>4 MΩ) & Electric Strength (4 kV)", "clause": "IS 16102 (Part 1) Cl 8.1", "priority": "Critical" },
+      { "name": "Total Harmonic Distortion (THD < 33%)", "clause": "IS 16102 (Part 2) Cl 11.1", "priority": "High" },
+      { "name": "Cap Temperature Rise (<120°C)", "clause": "IS 16102 (Part 1) Cl 11", "priority": "High" },
+      { "name": "Lumen Maintenance (6000 hrs)", "clause": "IS 16102 (Part 2) Cl 10.3", "priority": "Critical" }
+    ],
+    "suggested_labs": [
+      { "name": "ERDA Vadodara", "distance_km": 12, "accreditation": "BIS & NABL" },
+      { "name": "CPRI Bengaluru", "distance_km": 28, "accreditation": "BIS & NABL" },
+      { "name": "National Test House Ghaziabad", "distance_km": 45, "accreditation": "BIS Government Lab" }
+    ],
+    "compliance_readiness": {
+      "overall_score": 88,
+      "breakdown": {
+        "standard_identified": 100,
+        "qco_applicability": 100,
+        "documentation": 85,
+        "product_testing": 90,
+        "lab_testing": 85,
+        "marking_traceability": 95,
+        "certification_status": 75
+      },
+      "status": "Ready for Pre-Audit",
+      "missing_actions": ["Submit annual factory surveillance test report to BIS portal", "Update packaging label barcode"]
+    }
+  },
+  {
+    "scenario_id": "scenario-2-jewellery",
+    "product_name": "22 Karat Gold Hallmarked Bangle",
+    "product_category": "Precious Metals & Jewellery",
+    "detected_text": "BIS LOGO 22K916 HUID: AA1234 AHC-MH-0102 Net Wt 18.450g",
+    "brand": "TANISHQ",
+    "model": "BG-22K-916-2026",
+    "rating_plate": {
+      "purity": "22K (91.6% Pure Gold)",
+      "fineness": "916",
+      "metal": "Gold (Au)",
+      "weight": "18.45g",
+      "huid": "AA1234"
+    },
+    "applicable_standard": "IS 1417:2016",
+    "standard_id": "IS-1417",
+    "qco_status": "Mandatory Hallmarking (Hallmarking Order 2020)",
+    "cml_detected": null,
+    "huid_detected": "AA1234",
+    "confidence_score": 0.99,
+    "required_tests": [
+      { "name": "Fire Assay Method for Fineness (Lead Cupellation)", "clause": "IS 1417 Cl 4.1 & IS 1418", "priority": "Critical" },
+      { "name": "X-Ray Fluorescence (XRF) Screening", "clause": "IS 1417 Cl 5.2", "priority": "High" },
+      { "name": "Laser Inscription of 6-Digit Alphanumeric HUID", "clause": "IS 1417 Cl 6.3", "priority": "Critical" }
+    ],
+    "suggested_labs": [
+      { "name": "Apex Assaying and Hallmarking Centre Mumbai", "distance_km": 4, "accreditation": "BIS Recognized AHC" },
+      { "name": "National Hallmarking Centre Chennai", "distance_km": 350, "accreditation": "BIS Recognized AHC" }
+    ],
+    "compliance_readiness": {
+      "overall_score": 96,
+      "breakdown": {
+        "standard_identified": 100,
+        "qco_applicability": 100,
+        "documentation": 95,
+        "product_testing": 95,
+        "lab_testing": 100,
+        "marking_traceability": 100,
+        "certification_status": 90
+      },
+      "status": "Fully Hallmarked & Verified",
+      "missing_actions": ["Keep sales invoice with HUID printed for consumer record"]
+    }
+  },
+  {
+    "scenario_id": "scenario-3-cement",
+    "product_name": "Ordinary Portland Cement 43 Grade (OPC 43)",
+    "product_category": "Civil & Construction",
+    "detected_text": "ULTRATECH CEMENT OPC 43 GRADE IS 269 CM/L-1234567890 Net Quantity 50 kg Batch B-421 PKD 03/2026",
+    "brand": "ULTRATECH",
+    "model": "OPC-43-HD",
+    "rating_plate": {
+      "grade": "43 Grade",
+      "type": "Ordinary Portland Cement",
+      "bag_weight": "50 kg",
+      "batch_no": "B-421",
+      "cml": "CM/L-1234567890"
+    },
+    "applicable_standard": "IS 269:2015",
+    "standard_id": "IS-269",
+    "qco_status": "Mandatory ISI Scheme-I (Cement QCO 2024)",
+    "cml_detected": "CM/L-1234567890",
+    "huid_detected": null,
+    "confidence_score": 0.97,
+    "required_tests": [
+      { "name": "Compressive Strength (72h ≥ 23 MPa, 28-day ≥ 43 MPa)", "clause": "IS 269 Cl 6.2 & Table 2", "priority": "Critical" },
+      { "name": "Blaine Fineness Specific Surface (≥ 225 m²/kg)", "clause": "IS 269 Cl 6.1", "priority": "High" },
+      { "name": "Soundness (Le-Chatelier expansion ≤ 10 mm)", "clause": "IS 269 Cl 6.3", "priority": "Critical" },
+      { "name": "Initial Setting Time (≥ 30 min) and Final (≤ 600 min)", "clause": "IS 269 Cl 6.4", "priority": "High" }
+    ],
+    "suggested_labs": [
+      { "name": "National Test House Kolkata", "distance_km": 15, "accreditation": "BIS Apex Government Lab" },
+      { "name": "National Council for Cement & Building Materials (NCCBM)", "distance_km": 50, "accreditation": "BIS Recognized" }
+    ],
+    "compliance_readiness": {
+      "overall_score": 92,
+      "breakdown": {
+        "standard_identified": 100,
+        "qco_applicability": 100,
+        "documentation": 90,
+        "product_testing": 95,
+        "lab_testing": 90,
+        "marking_traceability": 90,
+        "certification_status": 85
+      },
+      "status": "Compliant with Cement QCO 2024",
+      "missing_actions": ["Upload 28-day compressive test log for current production batch"]
+    }
+  },
+  {
+    "scenario_id": "scenario-4-steel",
+    "product_name": "High Strength Deformed TMT Steel Rebar (Fe 500D)",
+    "product_category": "Metallurgy & Steel",
+    "detected_text": "TATA TISCON 500 D 12mm IS 1786 CM/L-0002591 Made in India Prime Billet Re-rolled",
+    "brand": "TATA TISCON",
+    "model": "TISCON-500D-12MM",
+    "rating_plate": {
+      "diameter": "12 mm",
+      "grade": "Fe 500D",
+      "yield_strength": "500 MPa",
+      "standard": "IS 1786"
+    },
+    "applicable_standard": "IS 1786:2008",
+    "standard_id": "IS-1786",
+    "qco_status": "Mandatory ISI Scheme-I (Steel Products QCO 2024)",
+    "cml_detected": "CM/L-0002591",
+    "huid_detected": null,
+    "confidence_score": 0.98,
+    "required_tests": [
+      { "name": "0.2% Proof Stress / Yield Stress (≥ 500 MPa)", "clause": "IS 1786 Cl 8.1 & Table 3", "priority": "Critical" },
+      { "name": "Tensile Strength / Proof Stress Ratio (≥ 1.10)", "clause": "IS 1786 Cl 8.1", "priority": "Critical" },
+      { "name": "Mandrel Bend and 180° Rebend Test", "clause": "IS 1786 Cl 9.1 & 9.2", "priority": "High" },
+      { "name": "Chemical Composition (Carbon ≤ 0.25%, S+P ≤ 0.075%)", "clause": "IS 1786 Cl 4.2 & Table 1", "priority": "Critical" }
+    ],
+    "suggested_labs": [
+      { "name": "National Test House Mumbai", "distance_km": 18, "accreditation": "BIS & NABL" },
+      { "name": "National Metallurgical Laboratory (NML) Jamshedpur", "distance_km": 120, "accreditation": "CSIR Premier Lab" }
+    ],
+    "compliance_readiness": {
+      "overall_score": 94,
+      "breakdown": {
+        "standard_identified": 100,
+        "qco_applicability": 100,
+        "documentation": 95,
+        "product_testing": 95,
+        "lab_testing": 90,
+        "marking_traceability": 95,
+        "certification_status": 90
+      },
+      "status": "ISI Mark Valid - QCO Compliant",
+      "missing_actions": ["Maintain spectrometer chemical calibration certificate on file"]
+    }
+  },
+  {
+    "scenario_id": "scenario-5-electrical-iron",
+    "product_name": "Heavy Duty Automatic Electric Dry Iron 1000W",
+    "product_category": "Household Electricals",
+    "detected_text": "BAJAJ MAJESTY DX-6 DRY IRON 1000W 230V AC 50Hz IS 302 (Part 2/Sec 3) CM/L-7128394 NON-STICK SOLEPLATE",
+    "brand": "BAJAJ ELECTRICALS",
+    "model": "MAJESTY-DX6",
+    "rating_plate": {
+      "wattage": "1000W",
+      "voltage": "230V AC",
+      "frequency": "50Hz",
+      "protection_class": "Class I",
+      "thermostat": "Adjustable bi-metallic with thermal fuse"
+    },
+    "applicable_standard": "IS 302 (Part 2/Sec 3):2007",
+    "standard_id": "IS-302-2-3",
+    "qco_status": "Mandatory ISI Scheme-I (Household Electrical Appliances QCO 2023)",
+    "cml_detected": "CM/L-7128394",
+    "huid_detected": null,
+    "confidence_score": 0.96,
+    "required_tests": [
+      { "name": "Leakage Current (≤ 0.75 mA) & Dielectric Test (1000 V)", "clause": "IS 302-2-3 Cl 13.2", "priority": "Critical" },
+      { "name": "Input Power Deviation Check (±5% at 1000W)", "clause": "IS 302-2-3 Cl 10", "priority": "High" },
+      { "name": "Moisture Resistance & Spillage Test", "clause": "IS 302-2-3 Cl 15", "priority": "High" },
+      { "name": "Abnormal Operation & Thermal Cutout Activation", "clause": "IS 302-2-3 Cl 19", "priority": "Critical" }
+    ],
+    "suggested_labs": [
+      { "name": "ERDA Vadodara", "distance_km": 20, "accreditation": "BIS Recognized" },
+      { "name": "National Test House Ghaziabad", "distance_km": 35, "accreditation": "BIS Recognized" },
+      { "name": "Shriram Institute for Industrial Research Delhi", "distance_km": 40, "accreditation": "NABL Accredited" }
+    ],
+    "compliance_readiness": {
+      "overall_score": 85,
+      "breakdown": {
+        "standard_identified": 100,
+        "qco_applicability": 100,
+        "documentation": 80,
+        "product_testing": 85,
+        "lab_testing": 85,
+        "marking_traceability": 85,
+        "certification_status": 75
+      },
+      "status": "QCO Compliant - Routine Test Up to Date",
+      "missing_actions": ["Upload thermal fuse component supplier test report"]
+    }
+  }
+]

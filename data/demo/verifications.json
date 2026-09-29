@@ -1,0 +1,112 @@
+{
+  "isi_licenses": [
+    {
+      "cml_number": "CM/L-8400192801",
+      "licensee_name": "Surya Roshni Limited",
+      "factory_address": "Plot No 26-28, Industrial Area, Kashipur, Uttarakhand 244713",
+      "standard_number": "IS 16102 (Part 1):2012",
+      "product_name": "Self-Ballasted LED Lamps for General Lighting Services",
+      "valid_from": "2020-04-01",
+      "valid_upto": "2027-03-31",
+      "status": "Operative / Valid",
+      "brand_name": "SURYA",
+      "model_numbers": ["SSK-PA-9W", "SSK-PA-12W", "SSK-PA-15W"],
+      "last_surveillance_date": "2025-11-14",
+      "is_valid": true
+    },
+    {
+      "cml_number": "CM/L-1234567890",
+      "licensee_name": "UltraTech Cement Limited",
+      "factory_address": "Aditya Nagar, Malkhed Road, Gulbarga, Karnataka 585292",
+      "standard_number": "IS 269:2015",
+      "product_name": "Ordinary Portland Cement 43 Grade",
+      "valid_from": "2018-01-01",
+      "valid_upto": "2026-12-31",
+      "status": "Operative / Valid",
+      "brand_name": "ULTRATECH",
+      "model_numbers": ["OPC-43-HD"],
+      "last_surveillance_date": "2026-02-10",
+      "is_valid": true
+    },
+    {
+      "cml_number": "CM/L-9999999999",
+      "licensee_name": "Expired Example Manufacturing Ltd",
+      "factory_address": "Sector 4, Industrial Area, Faridabad, Haryana",
+      "standard_number": "IS 302 (Part 2/Sec 3):2007",
+      "product_name": "Electric Iron",
+      "valid_from": "2019-01-01",
+      "valid_upto": "2023-12-31",
+      "status": "Expired / Cancelled",
+      "brand_name": "EXPIRED-BRAND",
+      "model_numbers": ["EI-100"],
+      "last_surveillance_date": "2023-06-01",
+      "is_valid": false
+    }
+  ],
+  "huid_records": [
+    {
+      "huid": "AA1234",
+      "jeweller_name": "Tanishq Jewellers (Titan Company Ltd)",
+      "jeweller_reg_no": "BIS/AHC/JW-882194",
+      "article_type": "Gold Bangle (22K)",
+      "purity_declared": "22K (916 Fineness)",
+      "assay_date": "2026-03-12",
+      "ahc_name": "Apex Assaying and Hallmarking Centre Mumbai (AHC-MH-0102)",
+      "weight_grams": 18.45,
+      "status": "Verified Genuine Hallmark",
+      "is_valid": true
+    },
+    {
+      "huid": "XY9876",
+      "jeweller_name": "Kalyan Jewellers India Limited",
+      "jeweller_reg_no": "BIS/AHC/JW-651239",
+      "article_type": "Gold Necklace (18K)",
+      "purity_declared": "18K (750 Fineness)",
+      "assay_date": "2026-04-20",
+      "ahc_name": "National Hallmarking Centre Chennai (AHC-TN-0044)",
+      "weight_grams": 32.10,
+      "status": "Verified Genuine Hallmark",
+      "is_valid": true
+    },
+    {
+      "huid": "JH5678",
+      "jeweller_name": "Malabar Gold and Diamonds",
+      "jeweller_reg_no": "BIS/AHC/JW-910482",
+      "article_type": "Gold Coin (24K)",
+      "purity_declared": "24K (999 Fineness)",
+      "assay_date": "2026-05-02",
+      "ahc_name": "Bengal Gold Assaying Centre Kolkata (AHC-WB-0211)",
+      "weight_grams": 10.00,
+      "status": "Verified Genuine Hallmark",
+      "is_valid": true
+    }
+  ],
+  "crs_registrations": [
+    {
+      "reg_number": "R-41012345",
+      "applicant_name": "Signify Innovations India Limited (Philips)",
+      "product_category": "Self-Ballasted LED Lamp",
+      "standard_number": "IS 16102 (Part 1):2012 & IS 16102 (Part 2):2017",
+      "country_of_origin": "India",
+      "valid_from": "2021-08-15",
+      "valid_upto": "2026-08-14",
+      "brand": "PHILIPS",
+      "models": ["CorePro LEDBulb 9W", "Stellar Bright 12W"],
+      "status": "Valid / Active",
+      "is_valid": true
+    },
+    {
+      "reg_number": "R-41098765",
+      "applicant_name": "Syska LED Lights Private Limited",
+      "product_category": "Self-Ballasted LED Lamp",
+      "standard_number": "IS 16102 (Part 1):2012",
+      "country_of_origin": "India",
+      "valid_from": "2020-11-01",
+      "valid_upto": "2027-10-31",
+      "brand": "SYSKA",
+      "models": ["SSK-SRL-9W", "SSK-SRL-14W"],
+      "status": "Valid / Active",
+      "is_valid": true
+    }
+  ]
+}

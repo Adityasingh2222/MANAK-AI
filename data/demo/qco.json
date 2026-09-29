@@ -1,0 +1,92 @@
+[
+  {
+    "id": "QCO-ELECTRICAL-2023",
+    "title": "Household and Similar Electrical Appliances (Quality Control) Order, 2023",
+    "order_number": "S.O. 1293(E)",
+    "ministry": "Ministry of Commerce and Industry (DPIIT)",
+    "publication_date": "2023-03-05",
+    "effective_date": "2024-03-01",
+    "status": "In Force",
+    "mandatory_scheme": "Scheme-I (Standard Mark / ISI Licence)",
+    "covered_products": [
+      "Electric Iron (IS 302 Part 2/Sec 3)",
+      "Electric Food Mixers, Grinders & Juicers (IS 302 Part 2/Sec 14)",
+      "Electric Immersion Water Heaters (IS 302 Part 2/Sec 201)",
+      "Room Heaters & Radiators (IS 302 Part 2/Sec 30)"
+    ],
+    "exemption_msme": "Micro enterprises given additional 6 months; Small enterprises given 3 months transition.",
+    "summary": "Mandates that goods or articles specified shall conform to corresponding Indian Standards and bear the Standard Mark under licence from BIS. No person shall manufacture, import, distribute, sell, hire, lease, store or exhibit for sale any non-compliant goods.",
+    "gazette_link": "https://egazette.gov.in/WriteReadData/2023/243912.pdf"
+  },
+  {
+    "id": "QCO-STEEL-2024",
+    "title": "Steel and Steel Products (Quality Control) Order, 2024",
+    "order_number": "S.O. 581(E)",
+    "ministry": "Ministry of Steel",
+    "publication_date": "2024-01-18",
+    "effective_date": "2024-07-18",
+    "status": "In Force",
+    "mandatory_scheme": "Scheme-I (ISI Mark)",
+    "covered_products": [
+      "High Strength Deformed Steel Bars for Concrete Reinforcement (IS 1786)",
+      "Structural Steel - Standard Quality (IS 2062)",
+      "Galvanized Steel Sheets (IS 277)"
+    ],
+    "exemption_msme": "Domestic micro and small steel re-rollers granted technical assistance through Ministry of Steel taskforce.",
+    "summary": "Mandatory conformity to IS 1786 and related metallurgical standards to curb sub-standard rebar in infrastructure projects. Direct penalty under Section 29 of BIS Act 2016 for non-compliance.",
+    "gazette_link": "https://egazette.gov.in/WriteReadData/2024/251004.pdf"
+  },
+  {
+    "id": "QCO-CEMENT-2024",
+    "title": "Cement (Quality Control) Order, 2024",
+    "order_number": "S.O. 942(E)",
+    "ministry": "Ministry of Commerce and Industry (DPIIT)",
+    "publication_date": "2024-02-27",
+    "effective_date": "2024-05-27",
+    "status": "In Force",
+    "mandatory_scheme": "Scheme-I (ISI Mark)",
+    "covered_products": [
+      "Ordinary Portland Cement (IS 269)",
+      "Portland Pozzolana Cement - Fly Ash Based (IS 1489 Part 1)",
+      "Portland Slag Cement (IS 455)"
+    ],
+    "exemption_msme": "None (zero exemption for structural construction materials).",
+    "summary": "Consolidates all previous cement quality directives. Requires strict batch traceability, mandatory laboratory test certification, and RFID/QR batch verification on packaging.",
+    "gazette_link": "https://egazette.gov.in/WriteReadData/2024/252119.pdf"
+  },
+  {
+    "id": "QCO-HALLMARK-2020",
+    "title": "Hallmarking of Gold Jewellery and Gold Artefacts Order, 2020 (as amended)",
+    "order_number": "S.O. 320(E)",
+    "ministry": "Ministry of Consumer Affairs, Food and Public Distribution",
+    "publication_date": "2020-01-15",
+    "effective_date": "2021-06-16",
+    "status": "In Force (Expanded to 343 Districts)",
+    "mandatory_scheme": "Scheme-IV (Hallmarking Scheme)",
+    "covered_products": [
+      "Gold Jewellery and Artefacts of 14K, 18K, 20K, 22K, 23K, and 24K (IS 1417)"
+    ],
+    "exemption_msme": "Jewellers with annual turnover up to ₹40 lakh exempt from mandatory registration.",
+    "summary": "Prohibits sale of non-hallmarked gold jewellery in mandatory districts. Enforces 6-digit HUID marking laser engraved on each individual item.",
+    "gazette_link": "https://egazette.gov.in/WriteReadData/2020/215321.pdf"
+  },
+  {
+    "id": "QCO-ELECTRONICS-CRS",
+    "title": "Electronics and Information Technology Goods (Requirements for Compulsory Registration) Order",
+    "order_number": "MeitY/CRO-2021",
+    "ministry": "Ministry of Electronics and Information Technology (MeitY)",
+    "publication_date": "2021-03-18",
+    "effective_date": "2021-10-01",
+    "status": "In Force",
+    "mandatory_scheme": "Scheme-II (Compulsory Registration Scheme - CRS)",
+    "covered_products": [
+      "Self-Ballasted LED Lamps (IS 16102 Part 1 & 2)",
+      "Power Adaptors for IT Equipment (IS 13252 Part 1)",
+      "Smart Watches & Wearables (IS 13252 Part 1)",
+      "Uninterruptible Power Systems - UPS (IS 16242 Part 1)"
+    ],
+    "exemption_msme": "Pre-compliance testing discount for startups registered under DPIIT.",
+    "summary": "Mandatory testing from recognized Indian laboratories and registration with BIS prior to import, manufacturing, or distribution across Indian territory.",
+    "gazette_link": "https://meity.gov.in/writereaddata/files/cro_order.pdf"
+  }
+]
