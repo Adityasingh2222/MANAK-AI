@@ -54,7 +54,7 @@ export default function ConsumerPage() {
   const handleGenerateComplaint = async () => {
     setLoading(true);
     try {
-      const res = await fetch('http://localhost:8000/api/consumer/complaint-guide', {
+      const res = await fetch('/api/consumer/complaint-guide', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({

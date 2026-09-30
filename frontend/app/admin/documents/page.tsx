@@ -22,7 +22,7 @@ export default function KnowledgeStudioPage() {
   const fetchDocs = async () => {
     setLoading(true);
     try {
-      const res = await fetch('http://localhost:8000/api/admin/documents');
+      const res = await fetch('/api/admin/documents');
       const data = await res.json();
       setDocuments(data);
     } catch (e) {
@@ -38,7 +38,7 @@ export default function KnowledgeStudioPage() {
 
   const handleApprove = async (docId: string) => {
     try {
-      const res = await fetch(`http://localhost:8000/api/admin/documents/approve/${docId}`, {
+      const res = await fetch(`/api/admin/documents/approve/${docId}`, {
         method: 'POST'
       });
       const data = await res.json();
